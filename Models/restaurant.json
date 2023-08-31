@@ -1,0 +1,38 @@
+[
+    { 
+        "id":1, 
+        "restaurant": "Burger King",
+        "city": "Delhi"
+    },
+    { 
+        "id":2, 
+        "restaurant": "Domino'z",
+        "city": "Delhi"
+    },
+    { 
+        "id":3, 
+        "restaurant": "AMA cafe",
+        "city": "Delhi"
+    },
+   
+    { 
+        "id":4, 
+        "restaurant": "KFC",
+        "city": "Bangalore"
+    },
+    { 
+        "id":5, 
+        "restaurant": "Amma's Biryani",
+        "city": "Mumbai"
+    },
+    { 
+        "id":6, 
+        "restaurant": "PremResto",
+        "city": "Mumbai"
+    },
+    { 
+        "id":7, 
+        "restaurant": "Mac D",
+        "city": "Bangalore"
+    }
+]

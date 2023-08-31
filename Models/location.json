@@ -1,0 +1,22 @@
+
+[
+    {
+        "id":1,
+        "location":"CP, Delhi"
+    },
+
+    {
+        "id":2,
+        "location":"Ahemdabad, Gujarat"
+    },
+
+    {
+        "id":3,
+        "location":"Howrah, kolkata"
+    },
+
+    {
+        "id":4,
+        "location":"Whitefield, Banglore"
+    }
+]
